@@ -75,3 +75,6 @@ Feito isso as aplicaçãoes já devem estar disponíveis:
 - E o banco de dados na porta 3306.
 
 2. Em seu aplicativo de preferência, como MYSQL Workbench, para visualizar a conexão com o banco de dados insira a senha disponível no docker-compose (que deve ser a mesma do seu arquivo .env) e poderá ver o banco já criado e populado.
+
+[Aplicação Frontend](https://github.com/thalesmsm/cashforce-frontend)
+[Aplicação Backend](https://github.com/thalesmsm/cashforce-backend)
